@@ -18,10 +18,10 @@ temp.py = a file that will be genrated for better effectivity
 brainfuck is a lower-end programming language with only 8 commands `+-><.,[]` and the memory consists of 255 zeros in a line.
 check out https://en.wikipedia.org/wiki/Brainfuck for more info
 # todo:
-fix the program not recognizing some letters that are not in the english alphabet
-make the program be able to recognize empty loops and insert a `pass` into them
-return custom errors for infinite loops
-maybe remove temp.py
+- fix the program not recognizing some letters that are not in the english alphabet
+- make the program be able to recognize empty loops and insert a `pass` into them
+- return custom errors for infinite loops
+- maybe remove temp.py
 
 # notes
 If you want to change the file, you are free to do so, but do not say that you made this program.
