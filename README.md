@@ -10,9 +10,9 @@ It also converts comments, so that's cool.
 4 ) let the file run. If you chose to create a file, type Y to run the file.   
 > you may choose between options with the same number 
 # the files
-interpreter.py = the main file, run this to use this program
-hello.bf = a hello world program in brainfuck, try to use to find out how it works
-hello.py = python file converted from hello.bf, open this to see how the outputed files look
+interpreter.py = the main file, run this to use this program    
+hello.bf = a hello world program in brainfuck, try to use to find out how it works    
+hello.py = python file converted from hello.bf, open this to see how the outputed files look    
 temp.py = a file that will be genrated for better effectivity
 # what is brainfuck anyways?
 brainfuck is a lower-end programming language with only 8 commands `+-><.,[]` and the memory consists of 255 zeros in a line.
